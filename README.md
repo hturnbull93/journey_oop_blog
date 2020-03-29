@@ -9,3 +9,5 @@ Read the [full blog post](https://medium.com/@hturnbull93/a-journey-with-oop-6cc
 Clone this repo to your local machine, and run `bundle`. This will install RSpec for you.
 
 Run the tests by running `rspec` from the main directory.
+
+Try commenting out the contents of the Walk and Car classes, the tests should still work, due to dependency injection.
