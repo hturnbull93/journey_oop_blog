@@ -2,7 +2,7 @@
 
 This is a very small project to demonstrate the Object Oriented Programming principles of dependency injection, forwarding, and polymorphism in Ruby.
 
-Read the full blog post about it.
+Read the [full blog post](https://medium.com/@hturnbull93/a-journey-with-oop-6cc7737a9e53) about it.
 
 ## Installation
 
